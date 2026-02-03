@@ -9,9 +9,9 @@
 #   end
 
 Book.create!([
-    {title: "My book 1"},
-    {title: "My book 2"},
-    {title: "My book 3"},
-    {title: "My book 4"},
-    {title: "My book 5"},
+    {title: "Dev book 1"},
+    {title: "Dev book 2"},
+    {title: "Dev book 3"},
+    {title: "Dev book 4"},
+    {title: "Dev book 5"},
 ])
