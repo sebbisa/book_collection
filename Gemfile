@@ -64,7 +64,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "webpacker"
+# gem "webpacker"
 
 
 gem "brakeman"
