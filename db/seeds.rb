@@ -7,3 +7,11 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+Book.create!([
+    {title: "My book 1"},
+    {title: "My book 2"},
+    {title: "My book 3"},
+    {title: "My book 4"},
+    {title: "My book 5"},
+])
